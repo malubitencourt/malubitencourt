@@ -1,4 +1,7 @@
 <h1 align="left">Olá Mundo</h1>
+<p>Meu nome é Malu Bitencourt, sou uma desenvolvedora front-end mas pretendo algum dia me tornar fullstack e atualmente sou estudante de Analise e Desenvolvimento de Sistemas pela Faculdade Descomplica.</p>
+
+<p>Este Github foi criado no intuido de mostrar um pouco dos meus trabalhos e estudos de desenvolvimento. Espero que vocês gostem 😊💛</p>
 
 
 
